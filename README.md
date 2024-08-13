@@ -1,17 +1,17 @@
-# :fire: Nagornev.Querer
+# Nagornev.Querer
 
-## :information_source: Information
+## Information
 
 This library is the basis for creating isolated querers.
 
-## :arrow_down: Installation
+## Installation
 
 Install the current version with __[dotnet](https://dotnet.microsoft.com/ru-ru/)__:
 ```C#
 dotnet add package Nagornev.Querer
 ```
 
-## :arrows_counterclockwise: Usage
+## Usage
 
 This library has 3 main components:
 
