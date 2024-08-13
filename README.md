@@ -1,4 +1,4 @@
-# Nagornev.Querer
+# [Nagornev.Querer](https://github.com/nagornev/Nagornev.Querer)
 
 ## Information
 
