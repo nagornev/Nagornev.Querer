@@ -6,6 +6,11 @@
     <Version>1.0.0</Version>
     <Authors>nagornev</Authors>
     <Description>Querer`s base.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>
